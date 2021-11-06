@@ -40,8 +40,8 @@ height: 720px;
 header{
   width: 1140px;
   height: 115px;
-  margin: 21px 390px 584px 390px;
-  position: absolute;
+  margin: 21px 390px 0px 390px;
+
   
 }
 .header_block-1{
@@ -173,8 +173,7 @@ margin-top: 10px;
     text-decoration: none;
   } 
   .text_block_1{
-    position: absolute;
-    margin: 241px 855px 28px 390px;
+    margin: 105px 855px 28px 390px;
     width: 675px;
     height: 451px;    
 
@@ -244,7 +243,7 @@ margin-top: 10px;
   .block_2_content{
     margin-left: 374px;
     margin-top: 51px;
-    margin-right: 374px;
+    margin-right: 376px;
     width: 1170px;
     height: 754px;
 
